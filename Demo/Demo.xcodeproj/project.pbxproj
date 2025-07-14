@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D7BF9FC82E254568006A37EA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D7BF9FC72E254568006A37EA /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		D7BF9FC72E254568006A37EA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D7CCC9522E23D3AE00F37103 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		D7CCC9492E23D3AE00F37103 = {
 			isa = PBXGroup;
 			children = (
+				D7BF9FC72E254568006A37EA /* .gitignore */,
 				D7CCC9542E23D3AE00F37103 /* Demo */,
 				D7CCC9532E23D3AE00F37103 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7BF9FC82E254568006A37EA /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
