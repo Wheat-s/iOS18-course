@@ -42,7 +42,7 @@ fastlane/test_output
 
 # Xcode Preview canvas cache
 *.xcplayground
-*.playground/
+#*.playground/
 timeline.xctimeline
 
 # User-specific files
